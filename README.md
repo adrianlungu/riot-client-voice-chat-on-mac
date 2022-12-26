@@ -2,6 +2,8 @@
 
 **An app to run League of Legends on MacOS with Voice enabled.** 
 
+## [*Download*](https://github.com/adrianlungu/riot-client-voice-chat-on-mac/releases/download/v0.1/Riot.Client.Voice.zip)
+
 ### How to run
 
 1. Download the app by downloading the repo, or downloading from the Releases page
