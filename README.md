@@ -9,8 +9,6 @@
 3. Run it
 4. Enjoy
 
-_Disclaimer:_ Your League of Legends installation must be in the `/Applications`  
-
 ### About
 
 The League of Legends client, as well as the Riot Client still have issues on MacOS with asking for permissions to use the microphone. This prevents the proper usage of the in-game League Chat with Voice. 
